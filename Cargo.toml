@@ -1,0 +1,10 @@
+[package]
+name = "fortytwo"
+version = "42.0.0"
+authors = ["Jan-Erik Rediger <janerik@fnordig.de>"]
+description = "Don't panic!"
+license = "MIT"
+edition = "2018"
+
+[build-dependencies]
+rustc_version = "0.2"
